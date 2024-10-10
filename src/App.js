@@ -1,7 +1,7 @@
 import React from 'react';
 
 import { AboutUs, Order, FindUs, Footer, Gallery, Header, SpecialMenu,Book } from './container';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { Route, Routes } from 'react-router-dom';
 import { Navbar } from './components';
 import './App.css';
 
